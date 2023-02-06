@@ -1,2 +1,2 @@
 Projeto de website para previsao do tempo
-Skils: HTML, CSS, JavaScript
+Skils: #HTML, #CSS, #JavaScript
